@@ -17,3 +17,5 @@ Run it with:
 ```sh
 python3 main.py
 ```
+
+No dependencies beyond a standard Python 3 installation.
